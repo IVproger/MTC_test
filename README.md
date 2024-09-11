@@ -13,3 +13,6 @@ pip install -Ur requirements.txt
 
 python -m spacy download ru_core_news_sm
 ```
+
+Download the ffmpeg: https://www.ffmpeg.org/download.html
+
